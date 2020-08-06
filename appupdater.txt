@@ -1,0 +1,7 @@
+{
+"title": "New update available",
+"message": "- fixed some bugs \ n - improved UI",
+"versionCode": 12,
+"force": false,
+"link": "https://github.com/jayvie07/app-updater2020/blob/master/CDO VPN 2020.apk?raw=true"
+}
